@@ -1,3 +1,4 @@
+
 let num=9;
 if(num%2==0){
 	console.log("even");
@@ -5,3 +6,4 @@ if(num%2==0){
 else{
 	console.log("odd");
 }
+
