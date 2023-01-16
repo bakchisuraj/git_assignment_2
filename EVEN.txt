@@ -1,2 +1,9 @@
-let n=5;
-(n%2==0)? console.log("even"):console.log("odd");
+
+let num=9;
+if(num%2==0){
+	console.log("even");
+}
+else{
+	console.log("odd");
+}
+
